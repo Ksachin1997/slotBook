@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bookappointmentghl",
+  "private_key_id": "426d730d68c5b52756937a4ee9f74434a1b2eba9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCpv0qviOu2sGkl\nJbRlKYr1rWXXW4nDUO3UvDGUt6bk5jsLSAcukc2iWPAzzSBGWUPFlpDKS2fau9/5\nT3bNq7pNMzESKQn7ZQmFKdWgcZ0P5DDiTU1BAZveUauIIbTrVy10c7jt7QfNlkMt\nhKOli8CxvkEbmpArbAmVof3uQK7ghhclijtrH+9J2qaBXMWECLLOHazgwgJ1WN/Q\nL226ZMbYdCZd4YrEL12yMrvyn6sicobbQZzw21MWngtEBnQf2iJew0S/EsbgCVOn\nDySXsZr8URM3jAGLREafVrLXWtiN6Uwu1nTCyzyaDHi7GnBG2H46lP61H3exESqW\noY1J0KrNAgMBAAECggEAKBfqNJbTEgYN97u1pbVPwKKRrPHOkscRPc+rqFROg79L\nj+kV5S6EEwYNyjZ3mpYn90oObfGsmJIKn3Dg/0hCC0z9mKv/0xS00HKmpixfrCq6\nTyFyD1opbjP9H3zSpkmjj19r/SqgzrLgsCYlnwro2zK0Xyg9SDxO8TxfZYB6rcYr\nvgHg5bXFghLpHkbJIiqrU31ZgRua161v/8Z8MCHWWPNUhosYUXaGKZ71A2Oa8r0z\ne5ZMnV5aw4JtTRLiEqIy7RlWKt5zZH56g7P3+fsVoRNPCRB0tqZMnC52tYSB2S++\n0bgectrz1GDzOJuRSqALWtNcVMJrbr676ZnKhB1zkwKBgQDVUTFjPNW3+KfCMLcD\nSDqBDfHXBU4qzhe+xbGPJaDWDub/k4IqQnb+gJIGiVnRQZqPrJlyMFOui5770Dvc\nmLgCJrUxDfUWAiOk/SN8/VbMfV122UQkwA2EWlsKNW0yaOPQKdLr+BHI/l0WNx8P\nncunrg+jfJjH8wGpAT+qvjJ3kwKBgQDLtk3D/IhURxypXtjSQF+J52Ng3B7Ynbtu\n1Qykg6XsqASD079kAOiHR5JcFXCUZ5v8oHNCMz8HzEshSd1PfPD/rO7XKuqZxbqi\nO4E86slJdAu6ysMKi2CDVZxcPEx4y1FYG59NkdoT+L+B+mfilGe5Fq8g9JeVzMKV\n2GY1K7kQHwKBgQCZQsKHGDg8+4wcOz/iPcy62Df/UrJ8kqIA0KznuhM6eG6DBYop\nrqMr61f/FkPP0qCnxUxh/FLDP1E0fsHjll3uPb1Ex1BlRZgyfCU5MhNgzFmQgD0z\nYkDT7M8oIIaaBz5WWxZNr2enzwk2YtgQMkEV8jsOLQDf97ojoOALXqeHvQKBgD1n\nz5szRTj6UpZvY7ZE90ePezJYR+gN69Dl4bC5ikuC/hFqw7d2WqFknqapQ81ISgnl\np7idz/MezsrTBCYQyGiZjUlIw3zk0HRUsYlWUKSWmW6N7isAhnAwXziiaH7E8tk3\nQlbUj0MT6U5Z1/TBvV5aiyHI+OSL21/l4jFG47sLAoGBALnXIMZIzfomZ42H/HgY\nHDfjimJ2XNVSsYoLVH0g9DYS8yln8ofTukxXQaJZgdx6xazKNBWSSqr3jiLdbu1k\nEN5H3feXe4AjCjsa6/KaKQVZ1vg5SCx9/HgqlRlLq9MsspJbzMcdLX6oK9d9pPYA\nouwmJoJMr6cSk3V4t8pasgxH\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-c4swf@bookappointmentghl.iam.gserviceaccount.com",
+  "client_id": "108531411478053468860",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-c4swf%40bookappointmentghl.iam.gserviceaccount.com"
+}

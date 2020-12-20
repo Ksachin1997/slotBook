@@ -1,0 +1,37 @@
+[debug] [2020-11-24T20:22:15.074Z] ----------------------------------------------------------------------
+[debug] [2020-11-24T20:22:15.076Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\sachi\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js emulators:start --only functions
+[debug] [2020-11-24T20:22:15.076Z] CLI Version:   8.16.2
+[debug] [2020-11-24T20:22:15.076Z] Platform:      win32
+[debug] [2020-11-24T20:22:15.076Z] Node Version:  v14.15.0
+[debug] [2020-11-24T20:22:15.078Z] Time:          Wed Nov 25 2020 01:52:15 GMT+0530 (India Standard Time)
+[debug] [2020-11-24T20:22:15.078Z] ----------------------------------------------------------------------
+[debug] [2020-11-24T20:22:15.078Z] 
+[debug] [2020-11-24T20:22:15.087Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-11-24T20:22:15.088Z] > authorizing via signed-in user
+[info] i  emulators: Starting emulators: functions {"metadata":{"emulator":{"name":"hub"},"message":"Starting emulators: functions"}}
+[warn] !  emulators: It seems that you are running multiple instances of the emulator suite for project bookappointmentghl. This may result in unexpected behavior. 
+[debug] [2020-11-24T20:22:15.179Z] [hub] writing locator at C:\Users\sachi\AppData\Local\Temp\hub-bookappointmentghl.json
+[warn] !  functions: The following emulators are not running, calls to these services from the Functions emulator will affect production: auth, firestore, database, hosting, pubsub {"metadata":{"emulator":{"name":"functions"},"message":"The following emulators are not running, calls to these services from the Functions emulator will affect production: \u001b[1mauth, firestore, database, hosting, pubsub\u001b[22m"}}
+[warn] !  Your requested "node" version "12" doesn't match your global version "14" {"metadata":{"emulator":{"name":"functions"},"message":"Your requested \"node\" version \"12\" doesn't match your global version \"14\""}}
+[debug] [2020-11-24T20:22:15.332Z] defaultcredentials: writing to file C:\Users\sachi\AppData\Roaming\firebase\sachinlaish_gmail_com_application_default_credentials.json
+[debug] [2020-11-24T20:22:15.360Z] Setting GAC to C:\Users\sachi\AppData\Roaming\firebase\sachinlaish_gmail_com_application_default_credentials.json {"metadata":{"emulator":{"name":"functions"},"message":"Setting GAC to C:\\Users\\sachi\\AppData\\Roaming\\firebase\\sachinlaish_gmail_com_application_default_credentials.json"}}
+[warn] !  ui: Emulator UI unable to start on port 4000, starting on 4002 instead. {"metadata":{"emulator":{"name":"ui"},"message":"Emulator UI unable to start on port 4000, starting on 4002 instead."}}
+[debug] [2020-11-24T20:22:15.422Z] Ignoring unsupported arg: auto_download {"metadata":{"emulator":{"name":"ui"},"message":"Ignoring unsupported arg: auto_download"}}
+[debug] [2020-11-24T20:22:15.423Z] Ignoring unsupported arg: port {"metadata":{"emulator":{"name":"ui"},"message":"Ignoring unsupported arg: port"}}
+[debug] [2020-11-24T20:22:15.423Z] Starting Emulator UI with command {"binary":"node","args":["C:\\Users\\sachi\\.cache\\firebase\\emulators\\ui-v1.2.2\\server.bundle.js"],"optionalArgs":[],"joinArgs":false} {"metadata":{"emulator":{"name":"ui"},"message":"Starting Emulator UI with command {\"binary\":\"node\",\"args\":[\"C:\\\\Users\\\\sachi\\\\.cache\\\\firebase\\\\emulators\\\\ui-v1.2.2\\\\server.bundle.js\"],\"optionalArgs\":[],\"joinArgs\":false}"}}
+[info] i  ui: Emulator UI logging to ui-debug.log {"metadata":{"emulator":{"name":"ui"},"message":"Emulator UI logging to \u001b[1mui-debug.log\u001b[22m"}}
+[debug] [2020-11-24T20:22:15.632Z] Web / API server started at http://localhost:4002
+ {"metadata":{"emulator":{"name":"ui"},"message":"Web / API server started at http://localhost:4002\n"}}
+[info] i  functions: Watching "C:\Users\sachi\Desktop\sghl\BookAppointmentGHL\functions" for Cloud Functions... {"metadata":{"emulator":{"name":"functions"},"message":"Watching \"C:\\Users\\sachi\\Desktop\\sghl\\BookAppointmentGHL\\functions\" for Cloud Functions..."}}
+[debug] [2020-11-24T20:22:15.808Z] [worker-pool] addWorker(~diagnostic~) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] addWorker(~diagnostic~)"}}
+[debug] [2020-11-24T20:22:15.808Z] [worker-pool] Adding worker with key ~diagnostic~, total=1 {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] Adding worker with key ~diagnostic~, total=1"}}
+[debug] [2020-11-24T20:22:15.808Z] [worker-pool] submitWork(triggerId=) {"metadata":{"emulator":{"name":"functions"},"message":"[worker-pool] submitWork(triggerId=)"}}
+[debug] [2020-11-24T20:22:15.809Z] [worker-~diagnostic~-a2d02b75-64cb-457c-8f20-2f15814767b9]: Assigning socketPath: \\?\pipe\C:\Users\sachi\Desktop\sghl\BookAppointmentGHL\functions\29808 {"metadata":{"emulator":{"name":"functions"},"message":"[worker-~diagnostic~-a2d02b75-64cb-457c-8f20-2f15814767b9]: Assigning socketPath: \\\\?\\pipe\\C:\\Users\\sachi\\Desktop\\sghl\\BookAppointmentGHL\\functions\\29808"}}
+[debug] [2020-11-24T20:22:15.809Z] [worker-~diagnostic~-a2d02b75-64cb-457c-8f20-2f15814767b9]: BUSY {"metadata":{"emulator":{"name":"functions"},"message":"[worker-~diagnostic~-a2d02b75-64cb-457c-8f20-2f15814767b9]: BUSY"}}
+[debug] [2020-11-24T20:22:16.780Z] [runtime-status] [29808] Functions runtime initialized. {"cwd":"C:\\Users\\sachi\\Desktop\\sghl\\BookAppointmentGHL\\functions","node_version":"14.15.0"} {"metadata":{"emulator":{"name":"functions"},"message":"[runtime-status] [29808] Functions runtime initialized. {\"cwd\":\"C:\\\\Users\\\\sachi\\\\Desktop\\\\sghl\\\\BookAppointmentGHL\\\\functions\",\"node_version\":\"14.15.0\"}"}}
+[debug] [2020-11-24T20:22:16.789Z] [runtime-status] [29808] Disabled runtime features: undefined {"metadata":{"emulator":{"name":"functions"},"message":"[runtime-status] [29808] Disabled runtime features: undefined"}}
+[warn] !  The Cloud Functions emulator requires the module "firebase-admin" to be installed. This package is in your package.json, but it's not available. You probably need to run "npm install" in your functions directory. {"metadata":{"emulator":{"name":"functions"},"message":"The Cloud Functions emulator requires the module \"firebase-admin\" to be installed. This package is in your package.json, but it's not available. You probably need to run \"npm install\" in your functions directory."}}
+[info] i  functions: Your functions could not be parsed due to an issue with your node_modules (see above) {"metadata":{"emulator":{"name":"functions"},"message":"Your functions could not be parsed due to an issue with your node_modules (see above)"}}
+[debug] [2020-11-24T20:22:16.835Z] [worker-~diagnostic~-a2d02b75-64cb-457c-8f20-2f15814767b9]: exited {"metadata":{"emulator":{"name":"functions"},"message":"[worker-~diagnostic~-a2d02b75-64cb-457c-8f20-2f15814767b9]: exited"}}
+[debug] [2020-11-24T20:22:16.835Z] [worker-~diagnostic~-a2d02b75-64cb-457c-8f20-2f15814767b9]: FINISHED {"metadata":{"emulator":{"name":"functions"},"message":"[worker-~diagnostic~-a2d02b75-64cb-457c-8f20-2f15814767b9]: FINISHED"}}
+[debug] [2020-11-24T20:24:16.182Z] Received signal SIGHUP 1
